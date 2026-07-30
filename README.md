@@ -4,6 +4,12 @@ Landing page oficial del programa educativo **LÁNZATE**: un ecosistema que ayud
 
 Sitio estático de una sola página (HTML + CSS + JS puro, sin frameworks ni build), listo para publicar en cualquier hosting estático.
 
+## 🌍 Sitio en vivo
+
+👉 **[lanzatepaginaweb.vercel.app](https://lanzatepaginaweb.vercel.app/)**
+
+Desplegado en Vercel. Cada push a `main` en este repositorio actualiza el sitio en vivo automáticamente.
+
 ## ✨ Qué incluye la página
 
 Recorrido completo pensado como embudo de ventas, de arriba hacia abajo:
@@ -78,3 +84,5 @@ y abrir `http://localhost:8090/index.html`.
 ## 🌐 Publicarla
 
 Al ser un sitio estático, se puede desplegar directo en **GitHub Pages**, **Netlify**, **Vercel** o cualquier hosting, sin pasos de build.
+
+Actualmente está desplegada en **Vercel**, conectada a este repositorio: cada `git push` a `main` dispara un nuevo deploy automático en [lanzatepaginaweb.vercel.app](https://lanzatepaginaweb.vercel.app/).
