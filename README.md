@@ -30,7 +30,7 @@ Recorrido completo pensado como embudo de ventas, de arriba hacia abajo:
 
 Además:
 - Botón flotante de **WhatsApp**.
-- Iconos de **Instagram, TikTok, YouTube, Facebook y WhatsApp** en el footer.
+- Iconos de **Instagram, LinkedIn, YouTube, Facebook y WhatsApp** en el footer, enlazados a los perfiles reales.
 - Checkout de **Hotmart** integrado en el botón de compra.
 - Animaciones suaves al hacer scroll, menú responsive con hamburguesa en móvil, y acordeón de FAQ sin dependencias externas.
 
@@ -62,9 +62,9 @@ referencias/                → brief de contenido original y guía de marca (no
 
 Quedaron marcadas en el código con `<!-- EDITAR -->` para que sean fáciles de encontrar:
 
-- [ ] Número real de WhatsApp (footer + botón flotante).
+- [x] Número real de WhatsApp (footer + botón flotante).
 - [ ] Correo de contacto real.
-- [ ] URLs reales de Instagram, TikTok y Facebook.
+- [x] URLs reales de Instagram, LinkedIn, YouTube y Facebook.
 - [ ] Precio real del programa.
 - [ ] Número real de clases incluidas.
 - [ ] Historia del mentor (texto actual es un borrador).
