@@ -63,9 +63,9 @@ referencias/                → brief de contenido original y guía de marca (no
 Quedaron marcadas en el código con `<!-- EDITAR -->` para que sean fáciles de encontrar:
 
 - [x] Número real de WhatsApp (footer + botón flotante).
-- [ ] Correo de contacto real.
+- [x] Correo de contacto real.
 - [x] URLs reales de Instagram, LinkedIn, YouTube y Facebook.
-- [ ] Precio real del programa.
+- [x] Precio real del programa ($147 USD).
 - [ ] Número real de clases incluidas.
 - [ ] Historia del mentor (texto actual es un borrador).
 - [ ] Video de presentación (hoy es un botón "play" de ejemplo).
